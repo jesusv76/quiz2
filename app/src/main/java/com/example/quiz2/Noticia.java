@@ -17,25 +17,19 @@ public class Noticia {
         return imagen;
     }
 
-    public void setImagen(String imagen) {
-        this.imagen = imagen;
-    }
+
 
     public String getNombre() {
         return nombre;
     }
 
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
+
 
     public String getDesc() {
         return desc;
     }
 
-    public void setDesc(String curso) {
-        this.desc = curso;
-    }
+
 
 
 }
